@@ -53,19 +53,19 @@ export default function LandingPage() {
       testimonials={[
         {
           name: "James R.",          handle: "@jamesr",          testimonial: "The best lawn service I have ever hired. Professional and meticulous.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-walking-romantic-happy-holidays-holding-hand-boyfriend-following-her_1150-4662.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-walking-romantic-happy-holidays-holding-hand-boyfriend-following-her_1150-4662.jpg?_wi=1"},
         {
           name: "Sarah M.",          handle: "@sarahm",          testimonial: "My backyard has never looked this green and healthy. Fantastic service.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/countryside-life-naature-close-up-outdoor-portrait-young-attractive-bearded-caucasian-man-blue-t-shirt-smiling_176420-19896.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/countryside-life-naature-close-up-outdoor-portrait-young-attractive-bearded-caucasian-man-blue-t-shirt-smiling_176420-19896.jpg?_wi=1"},
         {
           name: "David W.",          handle: "@davidw",          testimonial: "Reliable, fast, and high-quality work every single time.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/greenhouse-owner-presenting-flowers-options-potential-customer-retailer-using-laptop_158595-7049.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/greenhouse-owner-presenting-flowers-options-potential-customer-retailer-using-laptop_158595-7049.jpg?_wi=1"},
         {
           name: "Linda P.",          handle: "@lindap",          testimonial: "Parker & Sons M.D. brings a level of expertise I couldn't find elsewhere.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-senior-couple-with-water-hose_23-2148256621.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-senior-couple-with-water-hose_23-2148256621.jpg?_wi=1"},
         {
           name: "Mark L.",          handle: "@markl",          testimonial: "Absolute perfection. Highly recommended for premium lawn care.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-textbook-lying-park-ground_23-2147850741.jpg"},
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-textbook-lying-park-ground_23-2147850741.jpg?_wi=1"},
       ]}
       buttons={[
         {
@@ -163,15 +163,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          title: "Five Stars",          quote: "Remarkable attention to detail every single visit.",          name: "Sarah Jenkins",          role: "Resident",          imageSrc: "http://img.b2bpic.net/free-photo/woman-walking-romantic-happy-holidays-holding-hand-boyfriend-following-her_1150-4662.jpg"},
+          id: "1",          title: "Five Stars",          quote: "Remarkable attention to detail every single visit.",          name: "Sarah Jenkins",          role: "Resident",          imageSrc: "http://img.b2bpic.net/free-photo/woman-walking-romantic-happy-holidays-holding-hand-boyfriend-following-her_1150-4662.jpg?_wi=2"},
         {
-          id: "2",          title: "Top Notch",          quote: "My yard has never looked healthier since we switched.",          name: "Michael Roberts",          role: "Homeowner",          imageSrc: "http://img.b2bpic.net/free-photo/countryside-life-naature-close-up-outdoor-portrait-young-attractive-bearded-caucasian-man-blue-t-shirt-smiling_176420-19896.jpg"},
+          id: "2",          title: "Top Notch",          quote: "My yard has never looked healthier since we switched.",          name: "Michael Roberts",          role: "Homeowner",          imageSrc: "http://img.b2bpic.net/free-photo/countryside-life-naature-close-up-outdoor-portrait-young-attractive-bearded-caucasian-man-blue-t-shirt-smiling_176420-19896.jpg?_wi=2"},
         {
-          id: "3",          title: "Professionalism",          quote: "Reliable crew and always professional in communication.",          name: "Linda Chen",          role: "Property Manager",          imageSrc: "http://img.b2bpic.net/free-photo/greenhouse-owner-presenting-flowers-options-potential-customer-retailer-using-laptop_158595-7049.jpg"},
+          id: "3",          title: "Professionalism",          quote: "Reliable crew and always professional in communication.",          name: "Linda Chen",          role: "Property Manager",          imageSrc: "http://img.b2bpic.net/free-photo/greenhouse-owner-presenting-flowers-options-potential-customer-retailer-using-laptop_158595-7049.jpg?_wi=2"},
         {
-          id: "4",          title: "Quality Care",          quote: "The precision work on my hedges is incredible.",          name: "David Thorne",          role: "Resident",          imageSrc: "http://img.b2bpic.net/free-photo/happy-senior-couple-with-water-hose_23-2148256621.jpg"},
+          id: "4",          title: "Quality Care",          quote: "The precision work on my hedges is incredible.",          name: "David Thorne",          role: "Resident",          imageSrc: "http://img.b2bpic.net/free-photo/happy-senior-couple-with-water-hose_23-2148256621.jpg?_wi=2"},
         {
-          id: "5",          title: "Best in Town",          quote: "Parker & Sons M.D. brings true professionalism to lawn care.",          name: "Emily Watson",          role: "Homeowner",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-textbook-lying-park-ground_23-2147850741.jpg"},
+          id: "5",          title: "Best in Town",          quote: "Parker & Sons M.D. brings true professionalism to lawn care.",          name: "Emily Watson",          role: "Homeowner",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-textbook-lying-park-ground_23-2147850741.jpg?_wi=2"},
       ]}
       title="Client Success Stories"
       description="Hear what our premium clients have to say about the M.D. treatment."
